@@ -1,0 +1,4 @@
+.env
+ranges_env
+migrations
+__pycache__
